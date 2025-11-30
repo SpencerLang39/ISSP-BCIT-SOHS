@@ -51,6 +51,79 @@ src/
 └── main.tsx              # App entry point with providers
 
 ```
+# 🚀 Project Setup & Installation Guide
+
+Follow these steps to install all dependencies and start the development
+server.
+
+------------------------------------------------------------------------
+
+## 📦 1. Install Dependencies
+
+Make sure you are inside the project root folder, then run:
+
+``` bash
+npm install
+```
+
+If you use **pnpm**:
+
+``` bash
+pnpm install
+```
+
+If you use **yarn**:
+
+``` bash
+yarn install
+```
+
+------------------------------------------------------------------------
+
+## ▶️ 2. Start the Development Server
+
+``` bash
+npm run dev
+```
+
+or with **pnpm**:
+
+``` bash
+pnpm dev
+```
+
+or with **yarn**:
+
+``` bash
+yarn dev
+```
+
+The project will start on:
+
+    http://localhost:5173
+
+------------------------------------------------------------------------
+
+## 🛠️ 3. Build for Production (Optional)
+
+``` bash
+npm run build
+```
+
+To preview the production build:
+
+``` bash
+npm run preview
+```
+
+------------------------------------------------------------------------
+
+## 🎉 You're Ready to Go!
+
+Your React + Vite + TypeScript application should now be running
+successfully.
+
+
 
 ## 🏗️ Architecture Pattern
 
